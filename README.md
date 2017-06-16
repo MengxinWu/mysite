@@ -1,0 +1,1 @@
+1. 2017/6/16: Django-mysite: completed part1 and part2.
